@@ -10,4 +10,4 @@ def hello_two():
     return render_template("two.html")
 
 if __name__ == '__main__':
-    app.run
+    app.run()
